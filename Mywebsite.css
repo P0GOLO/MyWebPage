@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: rgba(80, 80, 80, 0.47);
+}
+
+.contenedor-barra {
+    display: flexbox;
+}
+
+.item {
+    text-decoration: none;
+    border-radius: solid 2px black;
+}
+
+
+.contenedor-yo {
+    margin: 140px;
+}
